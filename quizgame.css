@@ -1,0 +1,24 @@
+body{
+    background-color: #A8E0FF;
+}
+
+div{
+    background-color: rgb(255, 89, 89);
+    width:450px;
+    height: 150px;
+    
+}
+
+div{
+    background-color: rgb(255, 89, 89);
+    width:450px;
+    height: 150px;
+    border-radius: 5%;
+}
+
+button{
+    background-color: #1C77C3;
+    width: 200px;
+    height: 30px;
+    font-size:22px;
+}
